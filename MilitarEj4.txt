@@ -1,0 +1,5 @@
+1) crear una clase llamada soldado
+2)establecer una dependendencia con la clase militar
+3) crear metodos getSalario(), getDiasVacaciones(), recibeOrden(), getHoras()
+4) heredar los metodos de la clase militar.
+5) hacer un driver que imprima todas las podibles formas de militar
