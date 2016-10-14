@@ -1,0 +1,5 @@
+1) crear una clase llamada AlarmaEmergencia
+2) establecer herencia entre esta clase y la clase Alarma.
+3) crear metodo m1, el cual imprime "Emergencia 1".
+4) crear metodo m2, el cual llamada al metodo m1 de la clase Alarma y metodo m2 de la misma clase.
+5) crear metodo toString, en el cual se imprime "Emergencia" y se llama al metodo toString de la clase Alarma
